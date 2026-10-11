@@ -38,7 +38,7 @@ Today we are focused on the foundations: product development and the engineering
 
 ## Projects & Repositories
 
-Our public work lives at [organization repositories](https://github.com/RYVEO-LAB/repositories), and projects we consider representative of RYVEO LAB will be featured here.
+Our public work lives at [organization repositories](https://github.com/ryveo-lab/repositories), and projects we consider representative of RYVEO LAB will be featured here.
 
 ### Featured
 
@@ -48,7 +48,7 @@ Public repositories will be listed here as they are released.
 
 | Project | Description |
 | --- | --- |
-| [project-name](https://github.com/RYVEO-LAB/project-name) | One-line summary of what it does and why it matters. |
+| [project-name](https://github.com/ryveo-lab/project-name) | One-line summary of what it does and why it matters. |
 -->
 
 ---
