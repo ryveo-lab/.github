@@ -1,84 +1,70 @@
-# mflix-team 组织
+<p align="center">
+  <picture>
+    <!-- Currently ships one dark-background mark. When a light-mode variant is
+         ready, save it as assets/logo-light.png and uncomment the line below. -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png"> -->
+    <img src="assets/logo.png" width="160" alt="RYVEO LAB logo" />
+  </picture>
+</p>
 
-## 关于我们
+<h1 align="center">RYVEO LAB</h1>
 
-这里是 mflix-team 的官方仓库。我们致力于构建现代化的电影应用和视频流媒体解决方案。
-
-## 项目简介
-
-本项目是一个电影应用平台，主要功能包括：
-
-- 电影浏览和搜索
-- 用户评论和评分
-- 个性化推荐系统
-
-## 技术栈
-
-- 前端：[技术]
-- 后端：[技术]
-- 数据库：[技术]
-- 部署：[技术]
-
-## 快速开始
-
-### 环境要求
-
-- Node.js >= [版本]
-- [其他依赖]
-
-### 安装步骤
-
-```bash
-# 克隆仓库
-git clone https://github.com/mflix-team/mflix.git
-
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-```
-
-## 项目结构
-
-```
-.
-├── src/           # 源代码目录
-├── public/        # 静态资源
-├── tests/         # 测试文件
-└── docs/          # 文档
-```
-
-## 贡献指南
-
-我们欢迎所有形式的贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解更多信息。
-
-### 贡献流程
-
-1. Fork 本仓库
-2. 创建您的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启一个 Pull Request
-
-## 团队成员
-
-- [@iptodays](https://github.com/iptodays) - 项目负责人
-
-## 许可证
-
-本项目采用 [MIT](LICENSE) 许可证。
-
-## 联系方式
-
-- 邮箱：kingiswinter@outlook.com
-- 组织主页：https://github.com/mflix-team
-- 问题反馈：[Issues](https://github.com/mflix-team/mflix/issues)
-
-## 更新日志
-
-查看 [CHANGELOG.md](CHANGELOG.md) 了解项目的详细更新历史。
+<p align="center">
+  Building the Future of Cinematic Experiences.
+</p>
 
 ---
 
-最后更新时间：2026年1月2日
+## About RYVEO LAB
+
+RYVEO LAB is a global cinematic ecosystem exploring the convergence of artificial intelligence and digital filmmaking. We build creative tools, media infrastructure, and open technologies that connect creators, developers, and audiences across the world — with a steady focus on the next generation of storytelling, from AI-assisted production to interactive formats.
+
+## What We Explore
+
+- **AI & Generative Media** — production workflows powered by machine learning and generative models
+- **Film Production Technologies** — tooling that supports modern filmmaking, from pre-production to post
+- **Creative Development Tools** — developer-facing software for building media experiences
+- **Media Processing & Infrastructure** — scalable systems for encoding, distributing, and archiving video
+- **Interactive Storytelling** — formats where the story adapts to its viewer and the moment
+- **Open Source Engineering** — shared libraries, standards, and practices built publicly
+
+---
+
+## Open Source at RYVEO LAB
+
+We believe the future of media technology will be built in the open. Our tools and infrastructure are designed developer-first, and we are committed to releasing parts of our work as they mature — libraries, standards, and practices that the community can use, study, and improve.
+
+Today we are focused on the foundations: product development and the engineering processes that will shape how we publish. On the roadmap are substantive open-source releases, contribution guides, and community governance, all of which we will open for discussion as they take shape.
+
+## Projects & Repositories
+
+Our public work lives at [organization repositories](https://github.com/RYVEO-LAB/repositories), and projects we consider representative of RYVEO LAB will be featured here.
+
+<!-- TODO: confirm the organization URL and update the repositories link above. -->
+
+### Featured
+
+Public repositories will be listed here as they are released.
+
+<!-- Once a project is public, add it here in polished form, e.g.:
+
+| Project | Description |
+| --- | --- |
+| [project-name](https://github.com/RYVEO-LAB/project-name) | One-line summary of what it does and why it matters. |
+-->
+
+---
+
+## Community & Collaboration
+
+RYVEO LAB grows with the people who build on it. Developer, designer, or creator — here is how to take part:
+
+- **Explore our repositories** and follow along as projects are released
+- **Contribute to open-source projects** at whatever level feels right
+- **Share ideas and feedback** on the work you care about
+
+Chat channels and social accounts will be added to this section as they are established.
+
+---
+
+<p align="center">RYVEO LAB — Where Technology Meets Storytelling.</p>
