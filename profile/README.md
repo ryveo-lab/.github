@@ -40,8 +40,6 @@ Today we are focused on the foundations: product development and the engineering
 
 Our public work lives at [organization repositories](https://github.com/RYVEO-LAB/repositories), and projects we consider representative of RYVEO LAB will be featured here.
 
-<!-- TODO: confirm the organization URL and update the repositories link above. -->
-
 ### Featured
 
 Public repositories will be listed here as they are released.
