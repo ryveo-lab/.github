@@ -3,7 +3,7 @@
     <!-- Currently ships one dark-background mark. When a light-mode variant is
          ready, save it as assets/logo-light.png and uncomment the line below. -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png"> -->
-    <img src="assets/logo.png" width="160" alt="RYVEO LAB logo" />
+    <img src="assets/logo.gif" width="160" alt="RYVEO LAB logo" />
   </picture>
 </p>
 

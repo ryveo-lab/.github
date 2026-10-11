@@ -2,7 +2,7 @@
   <picture>
     <!-- 当前为深色背景标识。如准备浅色版本，保存为 assets/logo-light.png 并取消下行注释。 -->
     <!-- <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png"> -->
-    <img src="assets/logo.png" width="160" alt="RYVEO LAB logo" />
+    <img src="assets/logo.gif" width="160" alt="RYVEO LAB logo" />
   </picture>
 </p>
 
