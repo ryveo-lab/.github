@@ -35,22 +35,18 @@ RYVEO LAB 是一个面向全球的影视综合生态，探索人工智能与数�
 
 我们相信媒体技术的未来将在开放中诞生。我们的工具与基础设施从设计之初就面向开发者，并承诺在合适时机公开部分工作——供社区使用、研究与改进的库、标准和实践。
 
-当前我们专注基础：产品研发与决定我们如何发布的工程流程。路线图上是实质性的开源发布、贡献指南与社区治理，这些都会随着推进逐步开放讨论。
+当前我们专注基础：产品研发与决定我们如何发布的工程流程。贡献指南与社区治理已经公开——[贡献指南](CONTRIBUTING.md) 与[行为准则](CODE_OF_CONDUCT.md)（官网[社区页面](https://ryveo-lab.github.io/community/)有完整说明）；更多实质性的开源发布会随着项目推进逐步开放。
 
 ## 项目与仓库
 
-公开工作集中在[组织仓库](https://github.com/ryveo-lab/repositories)，代表 RYVEO LAB 方向的项目将在此精选展示。
+公开工作集中在[组织仓库](https://github.com/orgs/ryveo-lab/repositories)，代表 RYVEO LAB 方向的项目在此精选展示。
 
 ### 精选项目
 
-公开仓库发布后将在这一栏补全。
-
-<!-- 仓库公开后，以如下格式补充：
-
 | 项目 | 描述 |
 | --- | --- |
-| [project-name](https://github.com/ryveo-lab/project-name) | 一句话说明它做什么、为什么重要。 |
--->
+| [ryveo-lab.github.io](https://github.com/ryveo-lab/ryveo-lab.github.io) | 官方网站：双语文案、品牌视觉与社区文档。 |
+| [.github](https://github.com/ryveo-lab/.github) | 组织档案与默认社区文档（贡献指南、行为准则）。 |
 
 ---
 
@@ -59,7 +55,7 @@ RYVEO LAB 是一个面向全球的影视综合生态，探索人工智能与数�
 RYVEO LAB 与共建者一同成长。无论你是开发者、设计师还是创作者，都可以这样参与：
 
 - **探索我们的仓库**，跟随项目逐步发布
-- **参与开源项目**的贡献，程度随你所愿
+- **参与开源贡献**，先读[贡献指南](CONTRIBUTING.md)，一切交互遵循[行为准则](CODE_OF_CONDUCT.md)
 - **分享想法与反馈**，就你关心的方向展开交流
 
 聊天频道和社交账号建立后，将补充到本板块。

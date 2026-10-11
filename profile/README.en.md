@@ -36,22 +36,18 @@ RYVEO LAB is a global cinematic ecosystem exploring the convergence of artificia
 
 We believe the future of media technology will be built in the open. Our tools and infrastructure are designed developer-first, and we are committed to releasing parts of our work as they mature — libraries, standards, and practices that the community can use, study, and improve.
 
-Today we are focused on the foundations: product development and the engineering processes that will shape how we publish. On the roadmap are substantive open-source releases, contribution guides, and community governance, all of which we will open for discussion as they take shape.
+Today we are focused on the foundations: product development and the engineering processes that will shape how we publish. Contribution guides and community governance are already public — the [contributing guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) (full detail on the [website community page](https://ryveo-lab.github.io/en/community/)); more substantive open-source releases will follow as projects mature.
 
 ## Projects & Repositories
 
-Our public work lives at [organization repositories](https://github.com/ryveo-lab/repositories), and projects we consider representative of RYVEO LAB will be featured here.
+Our public work lives at [organization repositories](https://github.com/orgs/ryveo-lab/repositories), and projects we consider representative of RYVEO LAB are featured here.
 
 ### Featured
 
-Public repositories will be listed here as they are released.
-
-<!-- Once a project is public, add it here in polished form, e.g.:
-
 | Project | Description |
 | --- | --- |
-| [project-name](https://github.com/ryveo-lab/project-name) | One-line summary of what it does and why it matters. |
--->
+| [ryveo-lab.github.io](https://github.com/ryveo-lab/ryveo-lab.github.io) | The official website: bilingual content, brand, and community documentation. |
+| [.github](https://github.com/ryveo-lab/.github) | Organization profile and default community files (contributing guide, Code of Conduct). |
 
 ---
 
@@ -60,7 +56,7 @@ Public repositories will be listed here as they are released.
 RYVEO LAB grows with the people who build on it. Developer, designer, or creator — here is how to take part:
 
 - **Explore our repositories** and follow along as projects are released
-- **Contribute to open-source projects** at whatever level feels right
+- **Contribute to open-source projects** — start with the [contributing guide](CONTRIBUTING.md); all interaction follows the [Code of Conduct](CODE_OF_CONDUCT.md)
 - **Share ideas and feedback** on the work you care about
 
 Chat channels and social accounts will be added to this section as they are established.
